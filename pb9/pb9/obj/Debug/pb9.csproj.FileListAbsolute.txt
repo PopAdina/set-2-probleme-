@@ -1,0 +1,7 @@
+D:\set 2\pb9\pb9\obj\Debug\pb9.csproj.AssemblyReference.cache
+D:\set 2\pb9\pb9\obj\Debug\pb9.csproj.CoreCompileInputs.cache
+D:\set 2\pb9\pb9\bin\Debug\pb9.exe.config
+D:\set 2\pb9\pb9\bin\Debug\pb9.exe
+D:\set 2\pb9\pb9\bin\Debug\pb9.pdb
+D:\set 2\pb9\pb9\obj\Debug\pb9.exe
+D:\set 2\pb9\pb9\obj\Debug\pb9.pdb

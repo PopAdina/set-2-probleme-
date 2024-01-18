@@ -1,0 +1,7 @@
+D:\set 2\pb10\pb10\obj\Debug\pb10.csproj.AssemblyReference.cache
+D:\set 2\pb10\pb10\obj\Debug\pb10.csproj.CoreCompileInputs.cache
+D:\set 2\pb10\pb10\bin\Debug\pb10.exe.config
+D:\set 2\pb10\pb10\bin\Debug\pb10.exe
+D:\set 2\pb10\pb10\bin\Debug\pb10.pdb
+D:\set 2\pb10\pb10\obj\Debug\pb10.exe
+D:\set 2\pb10\pb10\obj\Debug\pb10.pdb
